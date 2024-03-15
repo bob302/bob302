@@ -13,13 +13,12 @@
 ###
 
 <div align="center">
-  <h1 align="center">How deep is the rabbit hole?</h1>
-  <img height="32" width="32" src="https://i.imgur.com/qRMZxa1.gif"/>
+  <h1 align="center">How deep is the rabbit hole? 🌌</h1>
 </div>
-###
 
+###
 <div align="center">
-  <img height="150" src="https://i.imgur.com/K8sEdBK.gif"/>
+  <img src="https://c.tenor.com/t76aYe97PhgAAAAC/hole-black-hole.gif"/>
 </div>
 
 ###
