@@ -42,14 +42,6 @@
 
 ###
 
-## 👀 Wow, very consistent :
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bob302&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=1&order=3" height="220" alt="streak graph" />
-</div>
-
-###
-
 - First thing by using Vue: [https://hero-siege-builder.pages.dev/editor](https://hero-siege-builder.pages.dev/editor)
 - KoFi : [https://ko-fi.com/bob302](https://ko-fi.com/bob302)
 
