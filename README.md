@@ -5,27 +5,16 @@
 ###
 
 <div align="center">
-  <h1 align="center">Is it Physics? 🌌</h1>
+  <h1 align="center">↓ ↓ ↓ When using AI ↓ ↓ ↓</h1>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://c.tenor.com/t76aYe97PhgAAAAC/hole-black-hole.gif"/>
+  <img src="https://s12.gifyu.com/images/bhqkw.gif"/>
 </div>
 
-###
-
-## 🌖 About Me
-
-- 🌠 My real name is Dmitry, but on the Internet I am often called Bob. 
-- 🪐 Doing random dev stuff from time to time.  
-- ∞ I can spend 10 times more effort automating a task just to use the solution once.  
-- 🧮 Watching numbers go up is fun!  
-
-###
-
-## 🛠 Cool logos
+## Deprecated Tech Stack (who cares)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -61,9 +50,7 @@
 
 ###
 
-- 🌎 Making a Thing For FuN: [https://hero-seige-builder.pages.dev](https://hero-seige-builder.pages.dev)
-- ☕ If You want to support: [https://ko-fi.com/bob302](https://ko-fi.com/bob302)
+- First thing by using Vue: [https://hero-siege-builder.pages.dev/editor](https://hero-siege-builder.pages.dev/editor)
+- KoFi : [https://ko-fi.com/bob302](https://ko-fi.com/bob302)
 
 ---
-
-> 🚀 **"Code. Automate. Forget. Repeat."**  
